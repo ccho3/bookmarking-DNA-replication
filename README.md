@@ -1,10 +1,10 @@
-# fly-embryo-replication-transcription
+# bookmarking-DNA-replication
 
-This repository contains scripts and quantification results related to the manuscript **"Mitotic bookmarks and Cdc7 kinase guide an early replication program to safeguard zygotic transcription."** The scripts provide custom tools for analyzing fluorescent protein dynamics in early Drosophila embryos.
+This repository contains scripts and quantification results related to the manuscript **"A mitotic bookmark promotes early replication."** The scripts provide custom tools for analyzing fluorescent protein dynamics in early Drosophila embryos.
 
 ## Usage
 
-The datasets generated for the manuscript and used for the following analyses are available at [Zenodo](https://zenodo.org/records/8136965).
+The datasets generated for the manuscript and used for the following analyses are available at [Zenodo](https://zenodo.org/records/13761202).
 
 To analyze the data, use the provided scripts by opening a terminal and running the corresponding commands. Replace `input_directory` and `output_directory` with the paths to the directories containing  TIFF files and the location where output should be saved, respectively. For more information, refer to the docstrings in each script.
 
