@@ -1,6 +1,6 @@
 # bookmarking-DNA-replication
 
-This repository contains scripts and quantification results related to the manuscript **"A mitotic bookmark promotes early replication."** The scripts provide custom tools for analyzing fluorescent protein dynamics in early Drosophila embryos.
+This repository contains scripts and quantification results related to the manuscript **"A mitotic bookmark coordinates transcription and replication (Cho and O'Farrell, 2025)."** The scripts provide custom tools for analyzing fluorescent protein dynamics in early Drosophila embryos.
 
 ## Usage
 
